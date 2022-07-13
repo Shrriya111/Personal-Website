@@ -1,0 +1,5 @@
+body { text-align:center ; background-color: burlywood}
+
+.game { width:100px ; height:3px ; background-color: black ; margin:10px auto}
+
+img:hover { transform: scale(0.9)}
